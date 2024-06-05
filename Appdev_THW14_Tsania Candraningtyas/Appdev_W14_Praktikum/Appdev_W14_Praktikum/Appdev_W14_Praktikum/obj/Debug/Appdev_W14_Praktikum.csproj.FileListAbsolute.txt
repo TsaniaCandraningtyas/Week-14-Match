@@ -1,0 +1,69 @@
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.exe.config
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.exe
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.pdb
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\MySql.Data.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Google.Protobuf.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\ZstdNet.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\System.Buffers.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\MySql.Data.xml
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.exe.config
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.Form1.resources
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.Properties.Resources.resources
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W.9A141A75.Up2Date
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.exe
+C:\Users\student\source\repos\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.pdb
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.exe.config
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.exe
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.pdb
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\MySql.Data.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Google.Protobuf.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\ZstdNet.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\System.Buffers.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\MySql.Data.xml
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.AssemblyReference.cache
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.SuggestedBindingRedirects.cache
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.exe.config
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.Properties.Resources.resources
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.GenerateResource.cache
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W.9A141A75.Up2Date
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.exe
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.pdb
+C:\Users\shasa\Downloads\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.Form_Main.resources
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.exe.config
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.exe
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Appdev_W14_Praktikum.pdb
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\MySql.Data.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Google.Protobuf.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\ZstdNet.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\BouncyCastle.Crypto.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\Ubiety.Dns.Core.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\System.Buffers.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Compression.LZ4.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\K4os.Hash.xxHash.dll
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\bin\Debug\MySql.Data.xml
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.AssemblyReference.cache
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.SuggestedBindingRedirects.cache
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.exe.config
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.Form_Main.resources
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.Properties.Resources.resources
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.GenerateResource.cache
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.CoreCompileInputs.cache
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.csproj.CopyComplete
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.exe
+E:\KULIAH\Semester 2\Appdev\Appdev_W14_Praktikum tiffannya\Appdev_W14_Praktikum\Appdev_W14_Praktikum\Appdev_W14_Praktikum\obj\Debug\Appdev_W14_Praktikum.pdb
